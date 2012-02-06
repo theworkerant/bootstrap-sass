@@ -72,3 +72,7 @@ Install the gem, add the require statement to the top of your configuration file
     compass install bootstrap
 
 You'll get the same benefits as those starting from scratch. Radical.
+
+----
+
+As per the Bootstrap project we don't include the responsive styles by default. `@import "bootstrap-responsive";` to get them.
